@@ -62,4 +62,4 @@ No AI collaboration for this particluar project, all codes were written by me.
 ## Author
 
 - Website - Michael Kaine
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kainemichael)
+- Frontend Mentor - [@kainemichael](https://www.frontendmentor.io/profile/kainemichael)
